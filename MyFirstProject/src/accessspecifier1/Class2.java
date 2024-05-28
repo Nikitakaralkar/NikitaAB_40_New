@@ -9,6 +9,7 @@ public class Class2 extends Class1 {
 		Class2 ac1= new Class2();
 		ac1.m2();
 		ac1.m3();
+		
 
 	}
 

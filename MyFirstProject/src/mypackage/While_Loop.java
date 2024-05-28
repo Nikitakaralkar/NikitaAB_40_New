@@ -8,7 +8,7 @@ public class While_Loop {
 		while(a<=12)
 		{
 			System.out.println("Hello");
-			a--;   //infinite
+			//a--;   //infinite
             a++;
          }
 

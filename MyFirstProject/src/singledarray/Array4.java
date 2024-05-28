@@ -8,6 +8,7 @@ public class Array4 {
 		
 		
 		String a1="Nikita";
+		System.out.println(a1);
 		char[] value = a1.toCharArray();
 		System.out.println(value);
 		System.out.println(Arrays.toString(value));

@@ -7,9 +7,12 @@ public class SIB_Program {
 		System.out.println("SIB");
 	}
 	
+	
 	public static void main(String[] args) {
 		
 		System.out.println("Main Method");
+		SIB_Program sb= new SIB_Program();
+		
 
 	}
 

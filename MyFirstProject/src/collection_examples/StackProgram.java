@@ -15,21 +15,21 @@ public class StackProgram {
 		s1.add("11");
 		s1.add("13");
 		s1.add("12");
-		/* System.out.println(s1);
+		 System.out.println(s1);
 		s1.pop();
 		System.out.println(s1);
 		System.out.println(s1.peek());
 		System.out.println(s1);
 		System.out.println(s1.push("111"));
 		System.out.println(s1);
-		System.out.println(s1.search("11")); */
+		System.out.println(s1.search("11")); 
 		
-		Enumeration e= s1.elements();
+		/* Enumeration e= s1.elements();
 		while(e.hasMoreElements())
 		{
 			System.out.println(e.nextElement());
 		}
-		
+		*/
 		
 		 
 	}
